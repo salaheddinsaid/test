@@ -1,0 +1,17 @@
+package PracticeTask0316;
+
+public class ArrayPractice {
+public static void main(String[] args) {
+	
+	
+	String cars = {"Evo","R34", "Supra", "S2000", "350z", "STI"};
+	
+	for (int=0; i<=cars.length-1; i++) {
+		System.out.println(cars[i]);
+	}
+	
+	
+	
+
+}
+}

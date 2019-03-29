@@ -1,0 +1,21 @@
+package com.variables;
+
+public class DeclaringVariables {
+
+	public static void main(String[] args) {
+/* declaring variables
+ */
+	int a;
+	int b; 
+	int c;
+	//declaring all together
+	int s,e,l;
+	a=06;
+	b=14;
+	c=2012;
+	s=03;
+	e=10;
+	l=1993;
+	System.out.println(a"\n" +b"\n");
+	}
+}

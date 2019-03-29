@@ -1,0 +1,13 @@
+package com.hw;
+
+public class ArithmeticOperation {
+public static void main(String[] args) {
+float ed= 8.2f;
+
+double multi = ed*ed;
+
+System.out.println("The multiplication of "+ ed + " times itself is equal to " + multi);
+
+
+ }
+}

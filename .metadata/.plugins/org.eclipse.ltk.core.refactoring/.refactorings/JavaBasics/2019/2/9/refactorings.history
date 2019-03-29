@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.practice.ScannaClas&apos; to &apos;CompareNumbers&apos;&#x0D;&#x0A;- Original project: &apos;JavaBasics&apos;&#x0D;&#x0A;- Original element: &apos;com.practice.ScannaClas&apos;&#x0D;&#x0A;- Renamed element: &apos;com.practice.CompareNumbers&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ScannaClas&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.practice{ScannaClas.java[ScannaClas" matchStrategy="1" name="CompareNumbers" qualified="false" references="true" similarDeclarations="false" stamp="1551027612470" textual="false" version="1.0"/>
+</session>

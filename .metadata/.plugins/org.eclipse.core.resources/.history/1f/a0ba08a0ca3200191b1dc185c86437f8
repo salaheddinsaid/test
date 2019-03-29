@@ -1,0 +1,13 @@
+package com.variables;
+
+public class ClassVariable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Class Variables
+		string str="John";
+		System.out.println(str);
+	
+	}
+
+}

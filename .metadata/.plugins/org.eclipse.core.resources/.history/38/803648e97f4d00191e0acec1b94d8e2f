@@ -1,0 +1,25 @@
+package PracticeTask0316;
+
+public class ArrayPractice {
+public static void main(String[] args) {
+	
+	
+	String[] cars = new String[7];
+	
+	cars [1] = "R34";
+	cars [2] = "Supra";
+	cars [3] = "EVO";
+	cars [4] = "STI";
+	cars [5] = "350z";
+	cars [6] = "Si";
+	
+	
+	for (int=0; i<=cars.length; i++) {
+		System.out.println(cars[i]);
+	}
+	
+	
+	
+
+}
+}
