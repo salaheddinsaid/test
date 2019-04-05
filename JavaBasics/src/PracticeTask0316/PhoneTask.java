@@ -30,7 +30,7 @@ public class PhoneTask {
 		phone3.color="Black";
 		phone3.screen=3.5;
 		phone3.camera=false;
-	 
+		System.out.println("The " +phone3.brand+ " is a  " +phone2.camera + " 180 degree camera.");
 	}
 
 }
