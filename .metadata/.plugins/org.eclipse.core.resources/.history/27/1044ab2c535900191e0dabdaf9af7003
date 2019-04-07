@@ -1,0 +1,27 @@
+package com.pack1;
+
+public class Application2 {
+
+	public static void main(String[] args) {
+		
+//		Animal pet1= new Animal();
+//		pet1.breed = "pitbull";
+//		Animal.name="Bruce";
+//		System.out.println(Animal.name+ " is a " +pet1.breed);
+//		pet1.canBark();
+//		
+//		Animal pet2 = new Animal();
+//		pet2.
+		
+		Animal anim = new Animal();
+		
+		System.out.println(anim.age);
+		System.out.println(anim.weight);
+		System.out.println(anim.name);
+		System.out.println(anim.breed);
+
+		String name = "Bruce";
+		System.out.println(anim.name);
+	}
+
+}

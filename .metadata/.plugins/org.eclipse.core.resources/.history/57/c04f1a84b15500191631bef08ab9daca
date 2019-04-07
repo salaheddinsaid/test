@@ -1,0 +1,22 @@
+package PracticeTask0316;
+
+public class PhoneTask {
+	
+	String brand, color;
+	double screen; 
+	boolean camera;
+	
+	public static void main(String[] args) {
+		
+		
+		PhoneTask phone1= new PhoneTask();
+		phone1.brand="Apple";
+		phone1.color="Grey";
+		phone1.screen=6.5;
+		phone1.camera=true;
+		
+		System.out.println("The iPhone is an "+phone1.brand+ " with a "+phone1.screen "in screen");
+	 
+	}
+
+}

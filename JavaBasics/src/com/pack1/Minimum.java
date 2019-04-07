@@ -1,0 +1,29 @@
+package com.pack1;
+
+public class Minimum {
+
+	static int minOfValue(int[] x) {
+
+		int min = Integer.MAX_VALUE;
+
+		for (int y : x) {
+			if (y < min) {
+				min = y;
+			}
+		}
+		return min;
+
+	}
+	static int maxOfValue(int[] x) {
+
+		int max = Integer.MIN_VALUE;
+
+		for (int j : x) {
+			if (j > max) {
+				max = j;
+			}
+		}
+		return max;
+		
+	}
+}

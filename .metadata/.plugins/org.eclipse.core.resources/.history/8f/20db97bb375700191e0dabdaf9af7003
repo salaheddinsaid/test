@@ -1,0 +1,37 @@
+package PracticeTask04;
+
+public class Greetings {
+
+	public static void main(String[] arg) {
+
+		Greetings obj = new Greetings();
+		obj.hello();
+		// how to find largest number
+		obj.findLargest();
+		obj.findLargest2(120, 90);
+	}
+
+	void hello() {
+		System.out.println("Hello");
+	}
+
+	void findLargest() {
+		int a = 10;
+		int b = 20;
+
+		if (a > b) {
+			System.out.println("A is lrger than B");
+		} else {
+			System.out.println("B is larger than A");
+		}
+	}
+
+	void findLargest2(int a, int b) {
+
+		if (a > b) {
+			System.out.println("A is lrger than B");
+		} else {
+			System.out.println("B is larger than A");
+		}
+	}
+}

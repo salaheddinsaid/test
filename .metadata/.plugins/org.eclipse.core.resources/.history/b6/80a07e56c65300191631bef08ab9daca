@@ -1,0 +1,13 @@
+package PracticeTask0316;
+
+public class FindingLargest {
+public static void main(String[] args) {
+	
+	int arr []= {12,24,600,48,1};
+	
+	int  min= a [0];
+	int largest= 
+	
+	
+}
+}

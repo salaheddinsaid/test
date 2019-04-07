@@ -1,0 +1,28 @@
+package PracticeTask04;
+
+public class Repl {
+
+
+		String Color, Name;
+		int ModelYear;
+
+		public static void main(String[] args){
+		  
+		  Repl car= new Repl();
+		  
+		  car.Color="Black";
+		  car.ModelYear=2019;
+		  car.Name="BMW";
+		  
+		  car.Color= "White";
+		  car.ModelYear= 2018;
+		  car.Name="Toyota";
+		  
+		  System.out.println("Car color is "+car.Color+ " and car model year is "+car.ModelYear+" and car name is "+car.Name);
+
+		    System.out.println("Car color is "+car.Color+ " and car model year is "+car.ModelYear+" and car name is "+car.Name);
+
+		}
+		
+	
+}

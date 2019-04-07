@@ -1,0 +1,15 @@
+package com.pack1;
+
+public class Application2 {
+
+	public static void main(String[] args) {
+		
+		Animal pet1= new Animal();
+		pet1.breed = "pitbull";
+		pet1.name="Bruce";
+		System.out.println(pet1.name+ " is a " +pet1.breed);
+		pet1.canBark();
+
+	}
+
+}

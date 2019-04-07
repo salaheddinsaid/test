@@ -1,0 +1,12 @@
+package PracticeTask0316;
+
+public class TaskPractice {
+public static void main(String[] args) {
+	
+	
+	String a="Hello World";
+	
+	String str = "a string";
+	int length = str.length[a]; // length == 8
+}
+}

@@ -1,0 +1,20 @@
+package PracticeTask0316;
+
+public class ReplPractice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//69
+//		Validate if the string ends with "u" prints the Boolean value accordingly
+//		Validate if the string ends with "world" prints the Boolean value accordingly
+//		Validate if the string ends with "are" prints the Boolean value accordingly
+//		Validate if the string ends with "you" prints the Boolean value accordingly
+	
+		String s1="hello how are you"; 
+		
+		boolean endsWith= s1.endsWith("u");
+	
+	}
+
+}

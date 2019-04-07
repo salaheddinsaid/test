@@ -1,0 +1,23 @@
+package PracticeTask04;
+
+public class TaskOne {
+
+	
+	TaskOne obj =new TaskOne();
+	
+	obj.LargesNumber(2342,21432);
+	
+	public static void main(String[] args) {
+		
+	}
+	void LargestNumber(int a,int b) {
+		
+		if (a>b) {
+			System.out.println("A is larger than B");
+		}else {
+			System.out.println("B is larger than A");
+		}
+	}
+
+	}
+    
